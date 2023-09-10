@@ -9,7 +9,7 @@ labels:
   - Java
   - Programing
   - Security
-summary: "As part of my first proyect in ICS 111 we created a simple password check code."
+summary: "As part of my first project in ICS 111 we created a simple password check code."
 ---
 
 As part of my ICS 11 class, we were tasked with developing a code that matches user input with stored data in memory. If the password matches, the user gains access. However, if the user fails to guess the password, they have only three additional attempts to try different passwords before the program terminates.
