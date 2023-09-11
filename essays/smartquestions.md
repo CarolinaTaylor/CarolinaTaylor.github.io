@@ -20,6 +20,6 @@ If you are a newbie and need help with Linux, check out your local user group or
 
 Here is an example of a stupid question found in Stack Overflow:
 
-##Understanding the difference between calling and Invoking function in JavaScript
+## Understanding the difference between calling and Invoking function in JavaScript
 
 It's perfectly fine to ask for clarification. However, in this particular case, it seems that this person have not done any research on his own firstly he did not provide enough evidence of any type of resources where they could have found information. It would have been helpful if they had shared the specific concept they found confusing, along with the documentation they may consult to ensure the information they rely on is accurate  and reliable.
