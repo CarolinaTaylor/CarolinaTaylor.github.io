@@ -20,4 +20,4 @@ My job is to make sure that furniture is lined up perfectly, the space is clean 
 
  
 [House Hike Drone Instagram](https://www.instagram.com/househike_realestatemedia_hi/).
-[House Hike WEBSIDE](https://househikerealestatemedia.com/). 
+[House Hike WEBSITE](https://househikerealestatemedia.com/). 
