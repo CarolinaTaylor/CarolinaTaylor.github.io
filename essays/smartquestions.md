@@ -18,11 +18,8 @@ When looking for answers to technical and other questions, Stack Overflow is a v
 
 If you are a newbie and need help with Linux, check out your local user group or your distribution's Web forum or IRC channel. These are great places to start, especially for common or simple problems. When asking for help, make sure to use a subject header that is clear and concise, with the object specifying the thing or group having the problem and the deviation describing the unexpected behavior. Be specific in describing your problem, including the symptoms, environment, research you've done, diagnostic steps taken, recent changes, and if possible, provide a way to reproduce the issue. When asking for help with code, provide a minimal bug-demonstrating test case. Remember to describe what you did leading up to the problem and what the machine and software did before the issue occurred. Avoid asking for help without giving any indication of what the problem might be.
 
-Here is a example of a stupit question found in stack over flow:
+Here is an example of a stupid question found in stack overflow:
 
-##Understanding the difference beetween calling and Invoking function in JavaScript
-I'm currently working on a project in js, and i've come across a concept that's been causing me some confusion: the diference between calling and involke. I've read the documentation and various tutorials, but I'm still struggling to grasp the distinction and how it applies to my code.
-So What is the fundamental difference between calling and invoking functions in js How do these concepts relate to the code I've provided? 
-Are there specific examples or scenarios where understanding this distinction is crucial for my project?.
+##Understanding the difference between calling and Invoking function in JavaScript
 
-It's perfectly fine to ask for clarification. However, in this particular case, it seems like the person who asked the question didn't provide enough evidence of the research they've conducted. It would have been helpful if they had shared the specific concept they found confusing, along with the documentation they consulted to ensure the information they received was reliable and accurate.
+It's perfectly fine to ask for clarification. However, in this particular case, it seems that this person have not done any research on his own firstly he did not provide enough evidence of any type of resources where they could have found information. It would have been helpful if they had shared the specific concept they found confusing, along with the documentation they may consult to ensure the information they rely on is accurate  and reliable.

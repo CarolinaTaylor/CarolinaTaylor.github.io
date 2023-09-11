@@ -12,7 +12,7 @@ labels:
   - WODS
 ---
 
-Participating in coding challenges with time limits, known as "wods", can be a difficult task, especially for those new to coding. However, these challenges can serve as an eye-opener and an opportunity to improve your coding skills. Personally, I have realized that I need to practice more and be better prepared for these challenges. If approached with a serious mindset, wods can help you develop key programming skills like problem-solving, algorithmic thinking, and code optimization.
+Participating in coding challenges with time limits, known as "wods", can be a difficult task, especially for those new to coding. However, these challenges can serve as an eye-opener and an opportunity to improve your coding skills. Personally, I have realized that I need to practice more and be better prepared for these challenges. If I approached with a serious mindset, wods can definitely help develop key programming skills like problem-solving, algorithmic thinking, and code optimization.
 
 Here are some benefits you can gain from practicing coding challenges:
 - Improved problem-solving skills: The time pressure of coding challenges can push you to think quickly and efficiently, which will help you become a better problem solver in real-world coding situations.
