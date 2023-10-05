@@ -12,7 +12,7 @@ labels:
  
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="essays/lets-talk-about-bootstrap.png">
+<img width="200px" class="rounded float-start pe-4" src="../essays/lets-talk-about-bootstrap.png">
 
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
