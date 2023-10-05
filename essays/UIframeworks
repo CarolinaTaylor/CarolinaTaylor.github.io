@@ -1,12 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "TIs it woth it learn UI frameworks?"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-04-10
 published: true
 labels:
-  - Engineering
+  - JavaScript
+  - Bootstrap
+  - Desing
+ 
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
