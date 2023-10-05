@@ -22,7 +22,7 @@ Web development has been transformed by UI frameworks that offer pre-designed, c
 
 One of the standout features of Bootstrap 5 is its mobile-first approach. This means that websites created with Bootstrap 5 are designed to be responsive and functional on various devices such as desktops and smartphones. Bootstrap 5 also provides utility classes that simplify the process of creating responsive layouts, making it an essential tool for developers. The modular structure of Bootstrap 5 allows developers to customize it according to their needs, ensuring that only necessary files are loaded for faster load times and improved performance.
 
-<div class="text-left p-4">
+<div class="text-start p-4">
   <img width="400px" src="../essays/thinkbootstrap.jpg" class="img-thumbnail" >
 </div>
 
