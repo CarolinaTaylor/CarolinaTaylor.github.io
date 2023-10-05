@@ -11,7 +11,10 @@ labels:
   - Desing
  
 ---
-
+<h3>
+  Learning bootstrap was not easy
+  <small class="text-muted">... but It was fun</small>
+</h3>
 <div class="text-center p-4">
   <img width="600px" class="rounded float-start pe-4" src="../essays/lets-talk-about-bootstrap.png" class="img-thumbnail">
 </div>
