@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Is it worth it to learn UI frameworks?"
 # All dates must be YYYY-MM-DD format!
-date: 2023-04-10
+date: 2023-10-04
 published: true
 labels:
   - JavaScript
