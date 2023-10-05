@@ -26,21 +26,7 @@ While Bootstrap 5 excels in many areas, it is essential to consider alternatives
 
 In conclusion, UI frameworks are the backbone of modern web development, offering a structured approach to designing interfaces. Bootstrap 5 and Semantic UI, with their unique strengths and considerations, provide developers with powerful tools to create engaging, user-centric experiences. While the learning curve may be steep, the investment of time and effort pays off in terms of efficiency, consistency, and maintainability. Whether one opts for Bootstrap 5, Semantic UI, or another framework, the key lies in harnessing these tools to strike a harmonious balance between efficiency and originality in web design. By leveraging the strengths of these frameworks and incorporating custom solutions where needed, developers can create websites that resonate with their target audience and provide exceptional user experiences.
 
-## In the context of engineering
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
 
 ## Okay!
 
