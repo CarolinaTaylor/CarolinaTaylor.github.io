@@ -17,7 +17,7 @@ labels:
 <div class="text-center p-4">
   <img width="600px" class="rounded float-start pe-4" src="../essays/lets-talk-about-bootstrap.png" class="img-thumbnail">
 </div>
-
+<img class="img-fluid" src="../essays/lets-talk-about-bootstrap.png">
 Web development has been transformed by UI frameworks that offer pre-designed, customizable components to simplify the creation of visually appealing and user-friendly websites. Bootstrap 5 is one of the top frameworks in this category. This essay will explore the importance of UI frameworks, address common concerns, and share personal experiences with Bootstrap 5. Furthermore, we will provide a comparative analysis of Bootstrap 5
 
 ## Bootstrap 5
