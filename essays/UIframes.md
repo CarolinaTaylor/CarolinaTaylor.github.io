@@ -24,14 +24,9 @@ IBootstrap 5's standout features is its mobile-first approach, which prioritizes
 
 While Bootstrap 5 excels in many areas, it is essential to consider alternatives. Semantic UI takes a semantic approach to web development, emphasizing intuitive and human-friendly class names. This can lead to more readable code and quicker comprehension for developers. Additionally, Semantic UI boasts a set of unique, visually appealing components that may resonate with certain design preferences. However, it may not be as extensively documented or widely adopted as Bootstrap, potentially posing challenges for those seeking community-driven support.
 
+<div class="text-center p-4">
+  <img width="200px" src="../essays/thinkbootstrap.jpg" class="img-thumbnail" >
+</div>
+
 In conclusion, UI frameworks are the backbone of modern web development, offering a structured approach to designing interfaces. Bootstrap 5 and Semantic UI, with their unique strengths and considerations, provide developers with powerful tools to create engaging, user-centric experiences. While the learning curve may be steep, the investment of time and effort pays off in terms of efficiency, consistency, and maintainability. Whether one opts for Bootstrap 5, Semantic UI, or another framework, the key lies in harnessing these tools to strike a harmonious balance between efficiency and originality in web design. By leveraging the strengths of these frameworks and incorporating custom solutions where needed, developers can create websites that resonate with their target audience and provide exceptional user experiences.
 
-
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
