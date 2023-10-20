@@ -22,7 +22,8 @@ When looking for answers to technical and other questions, Stack Overflow is a v
 If you are a newbie and need help with Linux, check out your local user group or your distribution's Web forum or IRC channel. These are great places to start, especially for common or simple problems. When asking for help, make sure to use a subject header that is clear and concise, with the object specifying the thing or group having the problem and the deviation describing the unexpected behavior. Be specific in describing your problem, including the symptoms, environment, research you've done, diagnostic steps taken, recent changes, and if possible, provide a way to reproduce the issue. When asking for help with code, provide a minimal bug-demonstrating test case. Remember to describe what you did leading up to the problem and what the machine and software did before the issue occurred. Avoid asking for help without giving any indication of what the problem might be.
 
 Here is an example of a good question found in Stack Overflow:
-[Question on StackOverflow]([https://getbootstrap.com/docs/5.2/getting-started/introduction/](https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it)).
+
+[Question on StackOverflow](https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it).
 
 ```
 What are Null Pointer Exceptions (java.lang.NullPointerException) and what causes them?
