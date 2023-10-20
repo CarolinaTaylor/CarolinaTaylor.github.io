@@ -11,7 +11,7 @@ labels:
   - Coding
   - Technical questions
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../essays/questionmeme.jpg">
 
 ## How can you get answers?
 
