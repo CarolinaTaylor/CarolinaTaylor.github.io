@@ -39,7 +39,7 @@ There are two overarching types of variables in Java:
 
 Primitives: variables that contain data. If you want to manipulate the data in a primitive variable you can manipulate that variable directly. By convention primitive types start with a lowercase letter. For example variables of type int or char are primitives.
 
-References: variables that contain the memory address of an Object i.e. variables that refer to an Object. If you want to manipulate the Object that a reference variable refers to you must dereference it. Dereferencing usually entails using . to access a method or field, or using [ to index an array. By convention reference types are usually denoted with a type that starts in uppercase. For example variables of type Object are references.
+References: variables that contain the memory address of an Object i.e. variables that refer to an Object. If you want to manipulate the Object that a reference variable refers to you must dereference it. Dereferencing usually entails using . to access a method or field, or using [ to index an array. By convention reference types are usually denoted with a type that starts in uppercase. For example, variables of type Object are references.
 
 Consider the following code where you declare a variable of primitive type int and don't initialize it:
 
@@ -47,8 +47,7 @@ int x;
 int y = x + x;
 These two lines will crash the program because no value is specified for x and we are trying to use x's value to specify y. All primitives have to be initialized to a usable value before they are manipulated.
 
-Now here is where things get interesting. Reference variables can be set to null which means "I am referencing nothing". You can get a null value in a reference variable if you explicitly set it that way, or a reference variable is uninitialized and the compiler does not catch it (Java will automatically set the variable to null). [continue reading the answer here](https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it).
-
-
+Now here is where things get interesting. Reference variables can be set to null which means "I am referencing nothing". You can get a null value in a reference variable if you explicitly set it that way, or a reference variable is uninitialized and the compiler does not catch it (Java will automatically set the variable to null). 
 ```
-The user received other 12 useful answers, with this answer got over 4k likes witch means that other people were having the same question, and the found this helpful.
+[continue reading the answer here](https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it).
+The user received other 12 useful answers, with this answer getting over 4k likes which means that other people were having the same question, and they found this helpful.
