@@ -50,4 +50,6 @@ These two lines will crash the program because no value is specified for x and w
 Now here is where things get interesting. Reference variables can be set to null which means "I am referencing nothing". You can get a null value in a reference variable if you explicitly set it that way, or a reference variable is uninitialized and the compiler does not catch it (Java will automatically set the variable to null). 
 ```
 [continue reading the answer here](https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it).
-The user received other 12 useful answers, with this answer getting over 4k likes which means that other people were having the same question, and they found this helpful.
+The user received other 12 useful answers, with this answer getting over 4k likes which means that other people were having the same question, and found this helpful.
+[question of a dummy question](https://stackoverflow.com/questions/54661840/mysql-query-in-clause).
+
