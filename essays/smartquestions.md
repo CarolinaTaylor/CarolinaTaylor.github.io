@@ -136,7 +136,4 @@ Method references of the form name1::name2 or primaryExpression::name throws a N
 
 a note from the JLS here says that, someInstance.someStaticMethod() doesn't throw an NPE, because someStaticMethod is static, but someInstance::someStaticMethod still throw an NPE!
 ```
-
-## Understanding the difference between calling and Invoking functions in JavaScript
-
-It's perfectly fine to ask for clarification. However, in this particular case, it seems that this person has not done any research on his own firstly he did not provide enough evidence of any type of resources where they could have found information. It would have been helpful if they had shared the specific concept they found confusing, along with the documentation they may consult to ensure the information they rely on is accurate  and reliable.
+The user received other 12 useful answers, with this answer got over 4k likes witch means that other people were having the same question, and the found this helpful.
