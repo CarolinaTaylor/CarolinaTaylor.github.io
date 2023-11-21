@@ -11,7 +11,7 @@ labels:
   - Coding
   - Web development
 ---
-<img width="300px" class="rounded float-start pe-4" src="../essays/questionmeme.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../essays/AI.png">
 
 ## Is artificial intelligence going to replace developers??
 
