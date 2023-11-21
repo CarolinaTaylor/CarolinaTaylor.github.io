@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smart questions get you smart answers."
+title: "ChatGPT: the good and the bad."
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-20
 published: true
