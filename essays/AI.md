@@ -29,8 +29,8 @@ ChatGPT can be a helpful resource for learning functional programming in several
 
 2. **Code Examples:** ChatGPT can generate functional programming code snippets based on your requests. This can be particularly useful for understanding how to implement certain features or concepts in a functional programming paradigm. You can ask for examples in languages like Haskell, Scala, or Lisp, which are known for their functional programming support.
 
- ... full answer check the link here [ChatGPT Question 1](https://chat.openai.com/share/2a67d803-0967-4b8b-89a9-dd448eb87cd1)
 ```
+   ... full answer check the link here [ChatGPT Question 1](https://chat.openai.com/share/2a67d803-0967-4b8b-89a9-dd448eb87cd1)
 After experiencing an amazing response from ChatGPT, I will deep into my personal experience and use of ChatGPT in the course of operating system ICS 314. I will discuss the pros and cons of using ChatGPT in this course. There were a number of experiences or assignments we were asked to do in order to achieve this.
  delve 
 
