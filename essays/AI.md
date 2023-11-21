@@ -31,6 +31,7 @@ ChatGPT can be a helpful resource for learning functional programming in several
 
 ```
    ... full answer check the link here [ChatGPT Question 1](https://chat.openai.com/share/2a67d803-0967-4b8b-89a9-dd448eb87cd1)
+
 After experiencing an amazing response from ChatGPT, I will deep into my personal experience and use of ChatGPT in the course of operating system ICS 314. I will discuss the pros and cons of using ChatGPT in this course. There were a number of experiences or assignments we were asked to do in order to achieve this.
  delve 
 
@@ -46,7 +47,7 @@ After experiencing an amazing response from ChatGPT, I will deep into my persona
 10. Explaining code
 11. Writing code
 12. Documenting code
-13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+13. Quality assurance e.g. “What’s wrong with this code "code here” or “Fix the ESLint errors in "code here”
 14. Other uses in ICS 314 not listed
 
 To begin with, let me explain what a WOD is. In general, it is a timed quiz that serves as a preparation for a job interview, creating an environment that closely mimics a real interview, complete with a time limit to code. During this experience, I did not utilize Artificial Intelligence extensively, mainly because I did not have enough time to come up with the perfect prompts to ask the chatbot. As an overthinker, I decided to dive right in and start working as quickly as possible so that I could have time to figure things out on my own without relying on the chatbot and potentially receiving incorrect or unfamiliar answers. 
