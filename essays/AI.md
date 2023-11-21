@@ -13,42 +13,43 @@ labels:
 ---
 <img width="300px" class="rounded float-start pe-4" src="../essays/questionmeme.jpg">
 
-## Artiphiticial inteligency is going to replecet developers??
+## Is artificial intelligence going to replace developers??
 
-Have you ever been in a situation where you wanted to ask a question in class, but didn't because you were afraid of sounding stupid or being judged?
-As aspiring programmers, it's important not only to know how to ask the right questions but also to learn how to use online forums effectively without causing any harm. One of the most valuable resources available to us is StackOverflow, which is a thriving online community and the go-to platform for programmers and developers.
-You can still use tools like Google to help with your search. However, don't solely rely on the name of the forum, newsgroup, or mailing list. Look for a FAQ or charter to ensure your question is relevant. It's also a good idea to review previous discussions before posting so you can get a sense of the forum's culture. Generally, public forums are better places to ask questions than private ones. This is because there are more potential respondents and a larger audience. Hackers are more likely to answer questions that benefit many people rather than just a few.
+Artificial intelligence is a revolutionary tool in this modern era. I believe that it has brought numerous benefits to my education and added an extra dimension to my research. AI can provide answers to questions at lightning speed, and the most amazing part is that, in most cases, the information provided is accurate. However, everything is not always perfect, and artificial intelligence is no exception. In this essay, I will share my experience with AI in my class, highlighting the unique and surprising aspects, as well as the challenges that made my life harder.
 
-When looking for answers to technical and other questions, Stack Overflow is a valuable resource that many open-source projects prefer. However, it is recommended to start with a Google search first as it indexes in real time. This increases the chances of finding similar questions that have already been asked, and Stack Exchange sites often appear at the top of the search results. Super User is the go-to forum for general-purpose computing questions. If your question is not related to code or programs that you interact with only over a network connection, it is likely to be answered here. For programming questions, Stack Overflow is the best option, while Server Fault is the ideal platform for server and network administration queries. Several projects have their own particular sites, such as Android, Ubuntu, TeX/LaTeX, and SharePoint. For an up-to-date list, check the Stack Exchange site.
+Why not ask an expert? Let's give the mic to ChatGPT.
 
-If you are a newbie and need help with Linux, check out your local user group or your distribution's Web forum or IRC channel. These are great places to start, especially for common or simple problems. When asking for help, make sure to use a subject header that is clear and concise, with the object specifying the thing or group having the problem and the deviation describing the unexpected behavior. Be specific in describing your problem, including the symptoms, environment, research you've done, diagnostic steps taken, recent changes, and if possible, provide a way to reproduce the issue. When asking for help with code, provide a minimal bug-demonstrating test case. Remember to describe what you did leading up to the problem and what the machine and software did before the issue occurred. Avoid asking for help without giving any indication of what the problem might be.
-
-Here is an example of a good question found in Stack Overflow:
-
-
-[Question on StackOverflow](https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it).
+[ChatGPT Question 1](https://chat.openai.com/share/2a67d803-0967-4b8b-89a9-dd448eb87cd1)
+Explain how ChatGPT can be useful for learning functional programming and what to be careful of when using it for this.
 
 ```
-What are Null Pointer Exceptions (java.lang.NullPointerException) and what causes them?
+ChatGPT can be a helpful resource for learning functional programming in several ways:
 
-What methods/tools can be used to determine the cause so that you stop the exception from causing the program to terminate prematurely?
+1. **Conceptual Explanations:** You can ask ChatGPT to explain fundamental concepts of functional programming, such as immutability, higher-order functions, pure functions, and lambda expressions. It can provide clear and concise explanations to help you understand these concepts better.
+
+2. **Code Examples:** ChatGPT can generate functional programming code snippets based on your requests. This can be particularly useful for understanding how to implement certain features or concepts in a functional programming paradigm. You can ask for examples in languages like Haskell, Scala, or Lisp, which are known for their functional programming support.
+
+ ... full answer check the link here [ChatGPT Question 1](https://chat.openai.com/share/2a67d803-0967-4b8b-89a9-dd448eb87cd1)
 ```
-Answer
-```
-There are two overarching types of variables in Java:
+After experiencing an amazing response from ChatGPT, I will deep into my personal experience and use of ChatGPT in the course of operating system ICS 314. I will discuss the pros and cons of using ChatGPT in this course. There were a number of experiences or assignments we were asked to do in order to achieve this.
+ delve 
 
-Primitives: variables that contain data. If you want to manipulate the data in a primitive variable you can manipulate that variable directly. By convention primitive types start with a lowercase letter. For example variables of type int or char are primitives.
+1. Experience WODs e.g. E18
+2. In-class Practice WODs
+3. In-class WODs
+4. Essays
+5. Final project
+6. Learning a concept / tutorial
+7. Answering a question in class or in Discord
+8. Asking or answering a smart-question
+9. Coding example e.g. “give an example of using Underscore .pluck”
+10. Explaining code
+11. Writing code
+12. Documenting code
+13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+14. Other uses in ICS 314 not listed
 
-References: variables that contain the memory address of an Object i.e. variables that refer to an Object. If you want to manipulate the Object that a reference variable refers to you must dereference it. Dereferencing usually entails using . to access a method or field, or using [ to index an array. By convention reference types are usually denoted with a type that starts in uppercase. For example, variables of type Object are references.
+To begin with, let me explain what a WOD is. In general, it is a timed quiz that serves as a preparation for a job interview, creating an environment that closely mimics a real interview, complete with a time limit to code. During this experience, I did not utilize Artificial Intelligence extensively, mainly because I did not have enough time to come up with the perfect prompts to ask the chatbot. As an overthinker, I decided to dive right in and start working as quickly as possible so that I could have time to figure things out on my own without relying on the chatbot and potentially receiving incorrect or unfamiliar answers. 
 
-Consider the following code where you declare a variable of primitive type int and don't initialize it:
+When I first used ChatGPT for WODs, the information it gave me was often too advanced, making simple exercises hard to understand.
 
-int x;
-int y = x + x;
-These two lines will crash the program because no value is specified for x and we are trying to use x's value to specify y. All primitives have to be initialized to a usable value before they are manipulated.
-
-Now here is where things get interesting. Reference variables can be set to null which means "I am referencing nothing". You can get a null value in a reference variable if you explicitly set it that way, or a reference variable is uninitialized and the compiler does not catch it (Java will automatically set the variable to null). 
-```
-[continue reading the answer here](https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it).
-The user received other 12 useful answers, with this answer getting over 4k likes which means that other people were having the same question, and found this helpful.
-[question of a dummy question](https://stackoverflow.com/questions/54661840/mysql-query-in-clause).
