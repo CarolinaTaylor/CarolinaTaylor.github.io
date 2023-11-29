@@ -48,6 +48,8 @@ After experiencing an amazing response from ChatGPT, I will deep into my persona
 12. Documenting code
 13. Quality assurance 
 14. Other uses in ICS 314 not listed
+
+
 - **WODS**
 To begin with, let me explain what a WOD is. In general, it is a timed quiz that serves as a preparation for a job interview, creating an environment that closely mimics a real interview, complete with a time limit to code. During this experience, I did not utilize Artificial Intelligence extensively, mainly because I did not have enough time to come up with the perfect prompts to ask ChatGPT. As an overthinker, I decided to dive right in and start working as quickly as possible so that I could have time to figure things out on my own without relying on ChatGPT and potentially receiving incorrect or unfamiliar answers. 
 
@@ -75,27 +77,28 @@ I was surprised at how simple AI can guide you through code. I found it helpful 
 
 11. Writing code
 12. Documenting code
-13. Quality assurance 
+13. Quality assurance
+
 ## III. IMPACT ON LEARNING AND UNDERSTANDING
 I have found that AI is very helpful in quickly clearing up any concepts that can be confusing, such as the management of databases. AI can provide a clear definition of what databases are and if you delve deeper into this topic, it can even give examples and illustrations, including small snippets of code that demonstrate how databases work.
+
 ## IV. PRACTICAL APPLLICATION
-  There are many different ways that AI can be of practical use in a range of industries. For example, it can help with automation, making it easier for humans to focus on creative tasks and leaving the mundane work to machines. It can also be used for data analysis, helping people to make better decisions based on large sets of information.
-
+There are many different ways that AI can be of practical use in a range of industries. For example, it can help with automation, making it easier for humans to focus on creative tasks and leaving the mundane work to machines. It can also be used for data analysis, helping people to make better decisions based on large sets of information.
 Another way that AI is useful is in creating personalized experiences for users. This can be done using natural language processing (NLP), which allows machines to understand and respond to human language. Additionally, AI can be used to recognize images and speech, which can be helpful in a variety of contexts.
-
 In healthcare, AI is often used to help with medical image analysis, drug discovery, and personalized medicine. It can also be useful in the development of autonomous vehicles, where it can help the vehicle to make decisions in real-time based on its surroundings.
-
 Other industries where AI is becoming increasingly important include cybersecurity, supply chain management, education, and finance. However, it is important to consider the ethical implications, privacy concerns, and biases associated with these applications of AI.
-
 Overall, AI has the potential to be a valuable tool in many different industries, but it is important to approach its use with care and consideration. By doing so, we can ensure that it is used in a way that is helpful, fair, and safe for everyone involved.
+
 ## V. CHALLENGES AND OPPORTUNITIES
 As we explore the possibilities of AI in software engineering and in this course ICS 314 AI is a learning curve that can be steep. Understanding and explaining is crusial when using Ai because you will need to be able to format questions in a way that you can get a good answer.
 
 ## VI. COMPARATIVE ANALYSIS
 I believe that AI will play a significant role in education. Looking back at my parents' generation, obtaining information required a lot of effort and money. They had to go to the library, find a book, and hope that the book had the information they needed. If the book was unavailable, they would have to wait for it to be returned. This made the learning experience slow and tedious. But then the internet era came, and access to information became much easier. It removed the waste of time traveling to the library and searching for one book to get the answer. With the internet, you could navigate different pages with a lot of information. However, you always needed to be careful about what information was true and what wasn't. With AI, the long time spent scrolling down to find a legitimate page that can provide useful information has ended. AI will do the shortcut for you by going straight to the point of the question you need an answer for. It will most likely offer a reliable answer. 
 ## VII FUTURE CONSIDERATION
-## VIII CONCLUSION
+I believe that AI will become smarter and more user-friendly, providing software engineers with more opportunities to apply AI to their work. It will become a powerful tool that speeds up the learning process and provides better solutions to problems, avoiding getting stuck on simple tasks that can lead to frustration. This will create a better environment where you can get answers and information much faster, without having to wait for a classroom setting to get your questions answered.
 
+## VIII CONCLUSION
+After my experience with ICS 314, I have come to the conclusion that AI is here to stay, and it is a fact that everyone will need to get used to. Instead of resisting AI, it would be more beneficial to embrace this new technology and learn more about it, both as a teacher and a student. This course has shown me the importance of balancing the approach to AI in software engineering education. Although I prefer to work with hand-on coding and program in a fast manner, being able to use AI has changed my pace. Firstly, I needed to understand what AI is and secondly, how I can implement it into my work in a way that makes sense.
 
  
 
