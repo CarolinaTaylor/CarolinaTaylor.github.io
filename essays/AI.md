@@ -55,7 +55,6 @@ To begin with, let me explain what a WOD is. In general, it is a timed quiz that
 furthermore, when I first used ChatGPT for WODs, the information it gave me was often too advanced, making simple exercises hard to understand.
 
 - **ESSAY**
-
 I have found AI a really helpful tool to improve my grammar and make sure that I have an adequate document. Since English is not my native language, I have found that AI is a great tool for learning from mistakes that usually nobody will tell; I like having AI checking for my grammar and making sure everything makes sense in the way I want it, even I ask chatGPT if they could answer that questions just to check my questions are understandable.
 
 Writing essays can be fun because it allows me to express my own ideas and I can let my thoughts flow. Sometimes, I worry about formatting and structure, but there are moments when all my ideas rush to my head like a huge wave, and I just need to write them down as fast as I can before I lose my inspiration.
@@ -63,8 +62,7 @@ Writing essays can be fun because it allows me to express my own ideas and I can
 When I first start writing, my grammar is often incorrect and I tend to make a lot of spelling errors. However, with just a few clicks, those errors can be corrected and the only thing I need to worry about is proofreading my essay to ensure that I am happy with what I have written.
 
 - **FINAL PROJECT**
-
-So far in my project, we haven't experienced AI because all the necessary information is found in the screencast that this course provided.
+  So far in my project, we haven't experienced AI because all the necessary information is found in the screencast that this course provided.
 
 - **LEARNING A CONCEPT / TUTORIAL**
 I have used AI to learn concepts and while I haven't needed much explanation for this particular course in ICS, I have found the information provided by Chat GPT to be really useful. It aligns with what I have learned in class and sometimes even offers better explanations than what I can find in books or from my own professors.
@@ -74,7 +72,7 @@ The teacher in this class encourages the use of ChatGPT for all questions to see
 
 - **CODING WITH CHAT GPT**
 This was kind of challenging because something that got will take you down an unknown path to solve some issues.
-9. Coding example e.g. “give an example of using Underscore .pluck”
+ example e.g. “give an example of using Underscore .pluck”
 - **EXPLAINIG CODE**
 I was surprised at how simple AI can guide you through code. I found it helpful in some cases, especially when the code gets bigger and more difficult to understand. Having AI break through and analyze your code in case you may be doing something wrong is a great way to maintain a good understanding of your code.
 
@@ -93,8 +91,8 @@ In healthcare, AI is often used to help with medical image analysis, drug discov
 Other industries where AI is becoming increasingly important include cybersecurity, supply chain management, education, and finance. However, it is important to consider the ethical implications, privacy concerns, and biases associated with these applications of AI.
 
 Overall, AI has the potential to be a valuable tool in many different industries, but it is important to approach its use with care and consideration. By doing so, we can ensure that it is used in a way that is helpful, fair, and safe for everyone involved.
-## V. CHALLENGES AND OPORTUNITEIES
-## VI. COMPARATIVE ANALISYS
+## V. CHALLENGES AND OPPORTUNITIES
+## VI. COMPARATIVE ANALYSIS
 ## VII FUTURE CONSIDERATION
 ## VIII CONCLUSION
 
