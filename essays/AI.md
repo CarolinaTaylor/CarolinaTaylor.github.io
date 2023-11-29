@@ -33,7 +33,6 @@ ChatGPT can be a helpful resource for learning functional programming in several
    ... full answer check the link here [ChatGPT Question 1](https://chat.openai.com/share/2a67d803-0967-4b8b-89a9-dd448eb87cd1)
 
 After experiencing an amazing response from ChatGPT, I will deep into my personal experience and use of ChatGPT in the course of operating system ICS 314. I will discuss the pros and cons of using ChatGPT in this course. There were a number of experiences or assignments we were asked to do in order to achieve this.
- delve 
 
 1. Experience WODs e.g. E18
 2. In-class Practice WODs
@@ -49,16 +48,14 @@ After experiencing an amazing response from ChatGPT, I will deep into my persona
 12. Documenting code
 13. Quality assurance 
 14. Other uses in ICS 314 not listed
-
+- **WODS**
 To begin with, let me explain what a WOD is. In general, it is a timed quiz that serves as a preparation for a job interview, creating an environment that closely mimics a real interview, complete with a time limit to code. During this experience, I did not utilize Artificial Intelligence extensively, mainly because I did not have enough time to come up with the perfect prompts to ask ChatGPT. As an overthinker, I decided to dive right in and start working as quickly as possible so that I could have time to figure things out on my own without relying on ChatGPT and potentially receiving incorrect or unfamiliar answers. 
 
 furthermore, when I first used ChatGPT for WODs, the information it gave me was often too advanced, making simple exercises hard to understand.
 
 - **ESSAY**
 I have found AI a really helpful tool to improve my grammar and make sure that I have an adequate document. Since English is not my native language, I have found that AI is a great tool for learning from mistakes that usually nobody will tell; I like having AI checking for my grammar and making sure everything makes sense in the way I want it, even I ask chatGPT if they could answer that questions just to check my questions are understandable.
-
 Writing essays can be fun because it allows me to express my own ideas and I can let my thoughts flow. Sometimes, I worry about formatting and structure, but there are moments when all my ideas rush to my head like a huge wave, and I just need to write them down as fast as I can before I lose my inspiration.
-
 When I first start writing, my grammar is often incorrect and I tend to make a lot of spelling errors. However, with just a few clicks, those errors can be corrected and the only thing I need to worry about is proofreading my essay to ensure that I am happy with what I have written.
 
 - **FINAL PROJECT**
@@ -92,7 +89,10 @@ Other industries where AI is becoming increasingly important include cybersecuri
 
 Overall, AI has the potential to be a valuable tool in many different industries, but it is important to approach its use with care and consideration. By doing so, we can ensure that it is used in a way that is helpful, fair, and safe for everyone involved.
 ## V. CHALLENGES AND OPPORTUNITIES
+As we explore the possibilities of AI in software engineering and in this course ICS 314 AI is a learning curve that can be steep. Understanding and explaining is crusial when using Ai because you will need to be able to format questions in a way that you can get a good answer.
+
 ## VI. COMPARATIVE ANALYSIS
+I believe that AI will play a significant role in education. Looking back at my parents' generation, obtaining information required a lot of effort and money. They had to go to the library, find a book, and hope that the book had the information they needed. If the book was unavailable, they would have to wait for it to be returned. This made the learning experience slow and tedious. But then the internet era came, and access to information became much easier. It removed the waste of time traveling to the library and searching for one book to get the answer. With the internet, you could navigate different pages with a lot of information. However, you always needed to be careful about what information was true and what wasn't. With AI, the long time spent scrolling down to find a legitimate page that can provide useful information has ended. AI will do the shortcut for you by going straight to the point of the question you need an answer for. It will most likely offer a reliable answer. 
 ## VII FUTURE CONSIDERATION
 ## VIII CONCLUSION
 
