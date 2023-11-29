@@ -54,7 +54,7 @@ To begin with, let me explain what a WOD is. In general, it is a timed quiz that
 
 furthermore, when I first used ChatGPT for WODs, the information it gave me was often too advanced, making simple exercises hard to understand.
 
-ESSAY
+- **ESSAY**
 
 I have found AI a really helpful tool to improve my grammar and make sure that I have an adequate document. Since English is not my native language, I have found that AI is a great tool for learning from mistakes that usually nobody will tell; I like having AI checking for my grammar and making sure everything makes sense in the way I want it, even I ask chatGPT if they could answer that questions just to check my questions are understandable.
 
@@ -62,16 +62,41 @@ Writing essays can be fun because it allows me to express my own ideas and I can
 
 When I first start writing, my grammar is often incorrect and I tend to make a lot of spelling errors. However, with just a few clicks, those errors can be corrected and the only thing I need to worry about is proofreading my essay to ensure that I am happy with what I have written.
 
-FINAL PROJECT
+- **FINAL PROJECT**
 
 So far in my project, we haven't experienced AI because all the necessary information is found in the screencast that this course provided.
 
-LEARNING A CONCEPT / TUTORIAL
+- **LEARNING A CONCEPT / TUTORIAL**
 I have used AI to learn concepts and while I haven't needed much explanation for this particular course in ICS, I have found the information provided by Chat GPT to be really useful. It aligns with what I have learned in class and sometimes even offers better explanations than what I can find in books or from my own professors.
 
-ANSWERING A QUESTION IN CLASS OR IN DISCORD
+- **ANSWERING A QUESTION IN CLASS OR IN DISCORD**
+The teacher in this class encourages the use of ChatGPT for all questions to see what it comes up with, usually Chat GPT will provided some what of good information when it goes reagrding terminology.
 
-The teacher in this class encourages the use of ChatGPT for all questions to see what it comes up with.
+- **CODING WITH CHAT GPT**
+This was kind of challenging because something that got will take you down an unknown path to solve some issues.
+9. Coding example e.g. “give an example of using Underscore .pluck”
+- **EXPLAINIG CODE**
+I was surprised at how simple AI can guide you through code. I found it helpful in some cases, especially when the code gets bigger and more difficult to understand. Having AI break through and analyze your code in case you may be doing something wrong is a great way to maintain a good understanding of your code.
+
+11. Writing code
+12. Documenting code
+13. Quality assurance 
+## III. IMPACT ON LEARNING AND UNDERSTANDING
+I have found that AI is very helpful in quickly clearing up any concepts that can be confusing, such as the management of databases. AI can provide a clear definition of what databases are and if you delve deeper into this topic, it can even give examples and illustrations, including small snippets of code that demonstrate how databases work.
+## IV. PRACTICAL APPLLICATION
+  There are many different ways that AI can be of practical use in a range of industries. For example, it can help with automation, making it easier for humans to focus on creative tasks and leaving the mundane work to machines. It can also be used for data analysis, helping people to make better decisions based on large sets of information.
+
+Another way that AI is useful is in creating personalized experiences for users. This can be done using natural language processing (NLP), which allows machines to understand and respond to human language. Additionally, AI can be used to recognize images and speech, which can be helpful in a variety of contexts.
+
+In healthcare, AI is often used to help with medical image analysis, drug discovery, and personalized medicine. It can also be useful in the development of autonomous vehicles, where it can help the vehicle to make decisions in real-time based on its surroundings.
+
+Other industries where AI is becoming increasingly important include cybersecurity, supply chain management, education, and finance. However, it is important to consider the ethical implications, privacy concerns, and biases associated with these applications of AI.
+
+Overall, AI has the potential to be a valuable tool in many different industries, but it is important to approach its use with care and consideration. By doing so, we can ensure that it is used in a way that is helpful, fair, and safe for everyone involved.
+## V. CHALLENGES AND OPORTUNITEIES
+## VI. COMPARATIVE ANALISYS
+## VII FUTURE CONSIDERATION
+## VIII CONCLUSION
 
 
  
