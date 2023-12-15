@@ -17,7 +17,6 @@ labels:
   - CSS
 summary: "Zero-Waste app was designed to streamline container distribution and return processes for vendors and users.."
 ---
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 <img class="img-fluid" src="../img/zero-waste/initialPage_Zero-waste.pgn.png">
 
@@ -38,5 +37,6 @@ In Milestone 1, our main aim was to establish the fundamental functionalities cr
 During Milestone 2, our focus shifted to assembling the pages using the components developed in Milestone 1. My primary responsibility was to translate the mockups into functional web pages, specifically creating user pages and updating the organization's website with live screenshots from the developed pages.
 
 #### M3
+In Milestone 3, our main efforts were directed towards finalizing the payment page and conducting thorough testing to ensure the proper functionality of the QR code.
 
 
