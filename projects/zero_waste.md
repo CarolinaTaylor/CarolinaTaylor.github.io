@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/zero-waste/initialPage_Zero-waste.pgn.png
 title: "Zero Waste"
 date: 2023
 published: true
@@ -18,7 +18,7 @@ labels:
 summary: "An App project that I developed for ICS 314."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="..img/zero-waste/initialPage_Zero-waste.pgn.png">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
