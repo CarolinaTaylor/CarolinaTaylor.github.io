@@ -17,8 +17,7 @@ labels:
   - CSS
 summary: "Zero-Waste app was designed to streamline container distribution and return processes for vendors and users.."
 ---
-
-<img class="img-fluid" src="../img/zero-waste/initialPage_Zero-waste.pgn.png">
+<img class="img-fluid" src="../img/zero-waste/initialPage_Zero-waste.png">
 
 ## What is Zero Waste?
 A non-profit organization operating a reusable takeout container program to replace single-use plates at events has been experiencing significant losses, with 20-30% of containers needing to be added. A system was developed to hold customers accountable for returning the company's reusable containers to counter this issue. The Zero-Waste app tracks these containers and maintains a database to ensure efficient management and return tracking.
