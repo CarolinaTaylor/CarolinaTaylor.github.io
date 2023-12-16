@@ -16,29 +16,30 @@
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "Photography" },
+    { "name": "Machine Learning" },
     { "name": "Software design" },
     { "name": "Robotics" },
-    { "name": "Culture" }
+    { "name": "Culture/Photography" }
+    
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "React" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub", "g++", "Windows" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2024)",
-      "studyType": "B.S.",
+      "area": "Double major in Computer Science and LLEA Spanish and Latin America Studies ",
+      "studyType": "B.A.",
       "startDate": "2022-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": ["Introduction to Computer Science I & II - Java", "Programming Application Systems - HTML/CSS, Javascript", "Software Engineering I - HTML/CSS, JavaScript, React, Meteor, MongoDB", "Program Structure C, C++"
       ]
     }
   ],
