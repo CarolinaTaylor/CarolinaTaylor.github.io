@@ -18,9 +18,10 @@ In today's world, tech is driving innovation, and software engineers are the bac
 
 ### Open Source Software Development
 
-getting to use Github was an interesting adventure, GitHub is a must-have tool for developers that comes with loads of features to make collaboration, version control, and project management a breeze. With its foundation in Git, version tracking is accurate and teamwork is effortless through features such as pull requests and code reviews. GitHub is a collaborative platform that encourages open-source contributions, knowledge sharing, and networking opportunities. Additionally, its project management tools, integration capabilities, and robust security measures played an important role in my group projects.
+Getting to use Github was an interesting adventure, GitHub is a must-have tool for developers that comes with loads of features to make collaboration, version control, and project management a breeze. With its foundation in Git, version tracking is accurate and teamwork is effortless through features such as pull requests and code reviews. GitHub is a collaborative platform that encourages open-source contributions, knowledge sharing, and networking opportunities. Additionally, its project management tools, integration capabilities, and robust security measures played an important role in my group projects.
 
 #### design patterns
+
 Design patterns are like templates that you can follow to make sure your code works nicely together. They're like reusable solutions to problems that happen all the time in software development. You can use them in lots of different systems and domains. For example, one pattern called the Observer pattern is super useful in lot systems, gaming engines, and network protocols. 
 
 I learned that it's super important to be thoughtful about your code when you're starting a project. It's like building the foundation for a house, you want to make sure it's strong so the rest of the house doesn't fall apart. 
