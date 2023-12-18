@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "Carolina Taylor",
+    "label": "Student",
+    "picture": "https://github.com/carolinataylor.png",
+    "email": "darleny@hawaii.edu",
+    "phone": "248-727-8386",
+    "website": "https://CarolinaTaylor.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "carolina14", "url": "http://github.com/CarolinaTaylor" },
+      { "network": "linkedin", "username": "carolina", "url": "https://www.linkedin.com/in/carolina-taylor-892b44240/" },
+      { "network": "instagram", "username": "carolina", "url": "https://www.instagram.com/househike_realestatemedia_hi/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Machine Learning" },
+    { "name": "Software design" },
+    { "name": "Robotics" },
+    { "name": "Culture/Photography" }
+    
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "React" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub", "g++", "Windows" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Double major in Computer Science and LLEA Spanish and Latin America Studies ",
+      "studyType": "B.A.",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "courses": ["Introduction to Computer Science I & II - Java", "Programming Application Systems - HTML/CSS, Javascript", "Software Engineering I - HTML/CSS, JavaScript, React, Meteor, MongoDB", "Program Structure C, C++"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2022-06-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    },
+    {
+      "company": "House Hike Drone",
+      "position": "Photographer",
+      "website": "https://househikerealestatemedia.com/",
+      "startDate": "2022-01-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "The flexibility, constant learning, and the satisfaction of presenting properties in their most appealing form make real estate photography a gratifying profession where each click tells a unique story.",
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "website": "",
+      "position": "Management of Basketball fundraiser for Nanakuli High School",
+      "startDate": "2022-09-4",
+      "endDate": "2022-09-14",
+      "summary": "Lead a group of girls into playing basketball",
+      "highlights": [
+        "We created a fundraiser basketball tournament for Nanakuli High School where all the player were females of all ages"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Pell Grand for academic achievement",
+      "date": "2023-2024",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded for students with high overall GPA of 3.0 at the University of Hawaii at Manoa."
+    },
+    {
+      "title": "List Dean",
+      "date": "2022",
+      "awarder": "The University of Hawaii Manoa",
+      "summary": "The Dean's List is an academic honor awarded to students who have exhibited outstanding performance"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
