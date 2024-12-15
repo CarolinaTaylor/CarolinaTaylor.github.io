@@ -25,21 +25,21 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "React" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "React", "Meteor"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "g++", "Windows" ]
+      "keywords": [ "MacOS", "Git/GitHub", "g++", "Windows", "MySQL", "MongoDB"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Double major in Computer Science and LLEA Spanish and Latin America Studies ",
       "studyType": "B.A.",
       "startDate": "2022-09-01",
       "endDate": "Present",
-      "courses": ["Introduction to Computer Science I & II - Java", "Programming Application Systems - HTML/CSS, Javascript", "Software Engineering I - HTML/CSS, JavaScript, React, Meteor, MongoDB", "Program Structure C, C++"
+      "courses": ["Introduction to Computer Science I & II - Java", "Programming Application Systems - HTML/CSS, Javascript", "Software Engineering I & II- HTML/CSS, JavaScript, React, Meteor, MongoDB", "Program Structure C, C++"
       ]
     }
   ],
