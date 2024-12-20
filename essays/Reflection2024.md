@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflection 2024 Mixed plate Project 2024"
+title: "Beyond the Balance Sheet: A Creative Dive into Financial Literacy Reflection 2024"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-14
 published: true
