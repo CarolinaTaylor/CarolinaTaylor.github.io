@@ -24,7 +24,7 @@ As a student of software engineering, I have come to realize that teamwork is fu
 One big part of the project was the team reviews. This helped tremendously to improve not only the code but also the quality of the product we were delivering.
 
 <div class="text-start p-4">
-  <img width="400px" src="../essays/thinkbootstrap.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/finances.png" class="img-thumbnail" >
 </div>
 
 When starting to learn a UI framework, it may seem like learning a new programming language due to its unique set of rules, syntax, and best practices. This can be daunting for those new to UI frameworks or for those who prefer hand-coding HTML and CSS. However, there are many benefits to using a UI framework, such as rapid development once mastered. Pre-designed and tested components are available, reducing the need for custom coding for common elements like buttons, forms, and navigation bars. Additionally, UI frameworks ensure consistency in design and responsiveness across various devices and browsers, which can be time-consuming to achieve when coding from scratch. Popular frameworks like Bootstrap have large, active communities that offer extensive documentation, tutorials, and user-generated resources that can be invaluable for troubleshooting and learning. However, there are considerations to keep in mind when using a UI framework. For instance, the initial learning curve can be steep, leading to frustration and a feeling of being overwhelmed. Also, while UI frameworks offer a wide range of components, they may not always align perfectly with a specific design vision, requiring additional customization effort or compromises in design.
