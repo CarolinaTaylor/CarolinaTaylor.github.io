@@ -14,14 +14,14 @@ labels:
 > **Finances are everything in todays world**... ***but It hard to lean it***
 
 <div class="text-center p-4">
-  <img width="400px" class="rounded float-start pe-4" src="../img/Logo.png" class="img-thumbnail">
+  <img width="400px" src="../img/Logo.png" class="img-thumbnail">
 </div>
 
-Web development has been transformed by UI frameworks that offer pre-designed, customizable components to simplify the creation of visually appealing and user-friendly websites. Bootstrap 5 is one of the top frameworks in this category. This essay will explore the importance of UI frameworks, address common concerns, and share personal experiences with Bootstrap 5. Furthermore, we will provide a comparative analysis of Bootstrap 5
+As a student of software engineering, I have come to realize that teamwork is fundamental to the development of any project. I experienced this firsthand with my recent project, where having a good team made a significant difference in delivering results to the customer. There is no doubt that working as a team allows for greater efficiency, better code quality, and faster adaptation to change. For example, we agreed to start this project using new tools like Next.js and MySQL, believing that we would learn a lot and gain experience with these technologies... but oh so little did we know about the challenges that we are about to face...
 
-## Teamwork
+## Reviews
 
-One of the standout features of Bootstrap 5 is its mobile-first approach. This means that websites created with Bootstrap 5 are designed to be responsive and functional on various devices such as desktops and smartphones. Bootstrap 5 also provides utility classes that simplify the process of creating responsive layouts, making it an essential tool for developers. The modular structure of Bootstrap 5 allows developers to customize it according to their needs, ensuring that only necessary files are loaded for faster load times and improved performance.
+One big part of the project was the team reviews. This helped tremendously to improve not only the code but also the quality of the product we were delivering.
 
 <div class="text-start p-4">
   <img width="400px" src="../essays/thinkbootstrap.jpg" class="img-thumbnail" >
