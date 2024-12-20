@@ -53,4 +53,4 @@ In this project, working as a team was extremely important because if someone di
 
 This experience taught me the importance of communication and the necessity of delegating tasks. It's essential not to take on the entire project yourself but rather to distribute responsibilities so that everyone can focus on one task instead of having them work across different aspects of the code.
 
-If you want to learn about our group project, here is our group's Github [Mixedplate]([https://github.com/mixed-plate/mixed-plate.github.io]).
+If you want to learn about our group project, here is our group's Github [Mixedplate](https://github.com/mixed-plate/mixed-plate.github.io).
