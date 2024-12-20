@@ -11,7 +11,7 @@ labels:
   - Finances
  
 ---
-> **Finances are everything in todays world**... ***but It hard to lean it***
+> **Finances rule the world**... ***but cracking the code can be tricky!***
 
 <div class="text-center p-4">
   <img width="400px" src="../img/Logo.png" class="img-thumbnail">
