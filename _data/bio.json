@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Carolina Taylor",
-    "label": "Student",
+    "label": "Graduated",
     "picture": "https://github.com/carolinataylor.png",
     "email": "darleny@hawaii.edu",
     "phone": "",
     "website": "https://CarolinaTaylor.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "summary": "Graduated in Fall 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "carolina14", "url": "http://github.com/CarolinaTaylor" },
@@ -19,7 +19,7 @@
     { "name": "Machine Learning" },
     { "name": "Software design" },
     { "name": "Robotics" },
-    { "name": "Culture/Photography" }
+    { "name": "System admin" }   
     
   ],
   "skills": [
@@ -38,8 +38,8 @@
       "area": "Double major in Computer Science and LLEA Spanish and Latin America Studies ",
       "studyType": "B.A.",
       "startDate": "2022-09-01",
-      "endDate": "Present",
-      "courses": ["Introduction to Computer Science I & II - Java", "Programming Application Systems - HTML/CSS, Javascript", "Software Engineering I & II- HTML/CSS, JavaScript, React, Meteor, MongoDB", "Program Structure C, C++"
+      "endDate": "Fall 2024",
+      "courses": ["Introduction to Computer Science I & II - Java", "Programming Application Systems - HTML/CSS, JavaScript", "Software Engineering I & II- HTML/CSS, JavaScript, React, Meteor, MongoDB", "Program Structure C, C++"
       ]
     }
   ],
@@ -49,11 +49,11 @@
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2022-06-01",
-      "endDate": "Present",
+      "endDate": "Fall 2024",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Troubleshoot software, hardware, and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk."
       ]
     },
     {
@@ -75,30 +75,30 @@
       "position": "Management of Basketball fundraiser for Nanakuli High School",
       "startDate": "2022-09-4",
       "endDate": "2022-09-14",
-      "summary": "Lead a group of girls into playing basketball",
+      "summary": "Lead a group of girls in playing basketball",
       "highlights": [
-        "We created a fundraiser basketball tournament for Nanakuli High School where all the player were females of all ages"
+        "We created a fundraiser basketball tournament for Nanakuli High School where all the players were females of all ages."
       ]
     }
   ],
   "awards": [
     {
-      "title": "Pell Grand for academic achievement",
+      "title": "Pell Grant for academic achievement",
       "date": "2023-2024",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded for students with high overall GPA of 3.0 at the University of Hawaii at Manoa."
+      "summary": "Scholarships awarded for students with a high overall GPA of 3.0 at the University of Hawaii at Manoa."
     },
     {
       "title": "List Dean",
       "date": "2022",
       "awarder": "The University of Hawaii Manoa",
-      "summary": "The Dean's List is an academic honor awarded to students who have exhibited outstanding performance"
+      "summary": "The Dean's List is an academic honor awarded to students who have exhibited outstanding performance."
     },
     {
       "title": "List Dean",
       "date": "2023",
       "awarder": "The University of Hawaii Manoa",
-      "summary": "The Dean's List is an academic honor awarded to students who have exhibited outstanding performance"
+      "summary": "The Dean's List is an academic honor awarded to students who have exhibited outstanding performance."
     }
   ],
   "references": [
