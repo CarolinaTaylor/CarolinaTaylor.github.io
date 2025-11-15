@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/zero-waste/logo-zerowate.png
+image: img/mixed-plate/mixed-plate.png
 title: "Mixed Plate"
-date: 2023
+date: 2024
 published: true
 labels:
   - JavaScript
@@ -15,11 +15,14 @@ labels:
   - Meteor
   - HTML
   - CSS
+  - Excel
 summary: "Mixed plate's app was designed to forecast company's financial budget."
 ---
-<img class="img-fluid" src="../img/zero-waste/initialPage_Zero-waste.png">
+<img class="img-fluid" src="../img/mixed-plate/mixed-plate.png">
 
 ## What is Zero Waste?
+Please see our site at [Mixed-plate WEBSITE](https://mixed-plate.github.io/).
+
 A non-profit organization operating a reusable takeout container program to replace single-use plates at events has been experiencing significant losses, with 20-30% of containers needing to be added. A system was developed to hold customers accountable for returning the company's reusable containers to counter this issue. The Zero-Waste app tracks these containers and maintains a database to ensure efficient management and return tracking.
 
 ### Features
