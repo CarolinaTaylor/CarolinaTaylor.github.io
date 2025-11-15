@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/zero-waste/logo-zerowate.png
+image: img/mixed-plate/mixed-plate.png
 title: "Zero Waste"
 date: 2023
 published: true
