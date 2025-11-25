@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mixed-plate/mixed-plate.png
+image: img/mixed-plate/mixed-plate1-1.png
 title: "Mixed Plate"
 date: 2024
 published: true
