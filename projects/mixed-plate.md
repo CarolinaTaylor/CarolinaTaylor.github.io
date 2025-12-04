@@ -45,4 +45,7 @@ Milestone 3 focused on refining the forms used for budget and audited data. We r
 #### M4 Role Enhancements & UI Improvements
 
 In Milestone 4, the team added more user roles and connected functionalities to those roles. We made major improvements to the audited balance sheet by adding total calculations and redesigned the form UI to more closely match the original spreadsheet format.
-#### M5
+#### M5 Code Cleanup & CSV Upload Feature
+Milestone 5 focused heavily on refactoring and improving the existing codebase. We enhanced the UI for audited data pages and updated the budget sheet layout to accurately match the original spreadsheet’s style.
+
+The team also created mock-up pages for audited data and implemented a new CSV upload feature, enabling authorized users to bulk upload financial data into the system.
