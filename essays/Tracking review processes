@@ -1,0 +1,18 @@
+---
+layout: essay
+type: essay
+title: "The purpose of this essay is to track my review "
+# All dates must be YYYY-MM-DD format!
+date: 2025-04-10
+published: false
+labels:
+  - Software Engineers
+  - JavaScript
+  - React
+  - Meteor
+  - MongoDB
+---
+
+
+The purpose of this essay is to track my processes in reviewing documentation to create a full stack app
+day one: topic to review "Rebuild Your Foundation." We are going into the basics with PostgreSQL and Prisma we are going to create DB from scratch and I'll add screenshot as I mess things up.
