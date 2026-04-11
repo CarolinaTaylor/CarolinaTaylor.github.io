@@ -15,4 +15,29 @@ labels:
 
 
 The purpose of this essay is to track my processes in reviewing documentation to create a full stack app
-day one: topic to review "Rebuild Your Foundation." We are going into the basics with PostgreSQL and Prisma we are going to create DB from scratch and I'll add screenshot as I mess things up.
+Day One: Topic to review "Rebuild Your Foundation." We are going into the basics with PostgreSQL and Prisma. We are going to create a database from scratch, and I'll add screenshots as I make mistakes along the way.
+
+The pain of forgetting your PostgreSQL password! I can't believe I spent quite some time figuring this out, researching and working on it. So, if you were to ask me how the review process is going—fantastic! I even forgot my password.
+Here's a quick tip so I never again need to go to YouTube to see how to reset my password. This is for Windows, by the way—sorry, Mac users.
+First, find the path of your pg_ident.conf file. Mine is C:\Program Files\PostgreSQL\18\data.
+Open Visual Studio as Administrator (IMPORTANT) so you can edit the file.
+Follow the path. Note: To open the file, you can just type "code pg_ident.conf".
+find this part of the code
+local   all             all                                     scram-sha-256
+host    all             all             127.0.0.1/32            scram-sha-256
+host    all             all             ::1/128                 scram-sha-256
+Replace 'scram-sha-256' with 'trust'.
+local   all             all                                     trust 
+host    all             all             127.0.0.1/32            trust 
+host    all             all             ::1/128                 trust 
+And SAVE THE FILE!
+Then go to Services and restart PostgreSQL.
+Now open your PowerShell and type: psql -U postgres
+You will be in. Change your password to something you will remember by typing:
+
+ALTER USER postgres WITH PASSWORD 'ThisPasswordIWillRemember';
+And that's almost done!
+Quit your session, go back into Visual Studio as Administrator, and change 'trust' back to 'scram-sha-256'.
+Then test it in your PowerShell.
+good luck 
+
